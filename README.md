@@ -3,8 +3,7 @@
 A full-stack web application for managing projects, assigning tasks, and tracking team progress with role-based access control.
 
 ## 🔗 Live Demo
-> [https://your-app.up.railway.app](https://your-app.up.railway.app)  
-> *(Replace with your Railway URL after deployment)*
+> teamtaskmanager-production-749f.up.railway.app
 
 ---
 
@@ -144,4 +143,4 @@ team-task-manager/
 ## 👨‍💻 Author
 
 **ARYAN PRATAP SINGH**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: https://github.com/aryan122pratap
