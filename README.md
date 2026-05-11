@@ -3,8 +3,7 @@
 A full-stack web application for managing projects, assigning tasks, and tracking team progress with role-based access control.
 
 ## 🔗 Live Demo
-> teamtaskmanager-production-749f.up.railway.app
-
+> [https://teamtaskmanager-production-749f.up.railway.app](https://teamtaskmanager-production-749f.up.railway.app)
 ---
 
 ##  Features
