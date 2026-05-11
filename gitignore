@@ -1,0 +1,4 @@
+node_modules/
+taskmanager.db
+.env
+*.log
